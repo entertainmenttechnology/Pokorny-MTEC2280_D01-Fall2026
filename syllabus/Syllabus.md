@@ -44,9 +44,9 @@ The course combines lectures, critiques, discussions, and studio/lab time. Typic
 * Final Project – a largely self-directed work, supported by independent research and iterative project development. Students present proposals for the instructor to green-light, which includes a calendar of tasks and deliverables. These are multi-week, scaffolded projects with work-in-progress deadlines, peer playtesting, and final critiques.   
   
 ## REQUIRED MATERIALS               
-* [Electronics Kit]()
+* [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Fall2026/blob/main/electronics%20kit/eKit.md)
 
-* Access to a Mac or PC laptop with internet access and suggested specifications (see [Laptop Specs]() in resources folder).
+* Access to a Mac or PC laptop with internet access and suggested specifications (see [Laptop Specs](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Fall2026/blob/main/resources/laptop-specs.md) in resources folder).
 
 
 * Free software and accounts: Discord, Github, Arduino IDE, VS Code, Web Browser.       
