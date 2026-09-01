@@ -91,5 +91,5 @@ If you order from DigiKey, make sure that item is currently in stock when you ad
         - [yellow](https://www.digikey.com/en/products/detail/sparkfun-electronics/08024/6833923)
         - [black](https://www.digikey.com/en/products/detail/sparkfun-electronics/08022/6833928)
     - ... or as a set of 6 spools: [HOOK-UP 22AWG SOLID - 6 X 25FT](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1311/6198255?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhKyaCaEHnhryjdCgp7s5dJA&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApaxxuX3kWnj4AMbgfEsSgD3cSZsanq4i83f5DxrgeE2Kgx4JSFvH0kaAnfFEALw_wcB)
-- [Alligator Clip Test Cables](https://www.digikey.com/en/products/detail/kitronik-ltd/2407/8635502): useful for testing and connecting components to circuit off of breadboard before committing to soldering.
+- [Alligator Clip Test Cables](https://www.digikey.com/en/products/detail/kitronik-ltd/2407/8635502): useful for testing and connecting components to circuit without a breadboard before committing to soldering.
 - [Multimeter](https://www.digikey.com/en/products/detail/olimex-ltd/DIGITAL-MULTIMETER-9205/22078305): any model that can measure Voltage, Resistance, Current, and Continuity
