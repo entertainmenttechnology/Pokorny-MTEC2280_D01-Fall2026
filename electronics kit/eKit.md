@@ -15,7 +15,7 @@ You may also use any of these ESP32S3-based development boards:
 
 1 - [USB Cable: USB-A to Micro](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849) (if buying elsewhere, make sure it's both power & data).
 
-The ESP32 has a microUSB connection. The cable above is for USB-A to microUSB. If your computer does not have a USB-A port (and you do not have an adapter), then you will need to purchase an adapter in addition this USB cable, or buy a microUSB cable that terminates to USB type of your computer.
+The ESP32 has a microUSB connection. The cable above is for USB-A to microUSB. If your computer does not have a USB-A port (and you do not have an adapter), then you will need to purchase an adapter in addition to this USB cable, or buy a microUSB cable that terminates to USB type of your computer.
 
 1 - [BreadBoard: Double Wide, 1660-Point](https://www.digikey.com/en/products/detail/busboard-prototype-systems/BB1660/19200358)
 
