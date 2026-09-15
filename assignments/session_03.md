@@ -10,7 +10,7 @@ The Project Must Include:
 - use of at least two conditional [if / else] statements.
 - use of delay() function.
 - use of logical comparator in at least one conditional statement.
-- must display at least 6 unique LED patterns.
+- must display at least 5 unique LED patterns.
 
 Upload your completed Short Sketch Project Folder to your GitHub repo with the title "YourName_SS1" (mine would be "IanP_SS1") before the next class session.    
 The arduino .ino file must be in a folder of the same name. For example, the arduino .ino file "IanP_SS1.ino" goes into a folder named "IanP_SS1".
