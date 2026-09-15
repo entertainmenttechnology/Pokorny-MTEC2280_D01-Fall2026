@@ -31,15 +31,15 @@ Send me the the link to your GitHub repo (URL, not .git) via Discord if you have
 Download & Install the latest [Silicon Labs Virtual COM Port Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) for your operating system.   
 Please reach out to me ASAP if you run into any issues.
 
-_If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it, you can put it in Bootloader Mode:_   
+_If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it..._   
 
 **First, make sure you do not have 3V3 or 5V plugged directly into GND anywhere! This will cause the microcontroller to lock up and become unresponsive.**
 
-_If this does nto resolve the issue, then..._
+_If this does not resolve the issue, then you can put it in Bootloader Mode:_
 
-1. Unplug microUSB cable to power off board.
+1. Unplug USB cable to power off board.
 2. Hold down BOOT button.
-3. Continue to hold down BOOT button, plug in microUSB cable to UART port.
+3. Continue to hold down BOOT button while plugging in USB cable to UART port.
 4. Press RESET while still holding down BOOT.
 5. Release RESET, then release BOOT. 
 6. The board should now be ready for firmware upload. I recommend flashing a simple sketch such as a serial "hello world" test or LED blink to confirm normal operation.
