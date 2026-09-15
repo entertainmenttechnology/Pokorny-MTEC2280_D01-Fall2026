@@ -1,0 +1,45 @@
+
+## SESSION 03 - Assignment - DUE WEDNESDAY 9/23
+
+## Short Sketch #1 - Digital Output
+Create an Arduino sketch for the ESP32-S3 Dev Board implementing digitalWrite(). Program the microcontroller to display distinct On/Off patterns for the LEDs over time.   
+
+The Project Must Include:
+- a circuit with at least 4 LEDs (don't forget to include current limiting resistors).
+- declaration and use of at least 3 variables.
+- use of at least two conditional [if / else] statements.
+- use of delay() function.
+- use of logical comparator in at least one conditional statement.
+- must display at least 6 unique LED patterns.
+
+Upload your completed Short Sketch Project Folder to your GitHub repo with the title "YourName_SS1" (mine would be "IanP_SS1") before the next class session.    
+The arduino .ino file must be in a folder of the same name. For example, the arduino .ino file "IanP_SS1.ino" goes into a folder named "IanP_SS1".
+
+Send me the the link to your GitHub repo (URL, not .git) via Discord if you have not already done so. This is where I will check for your completed work from now on.
+
+### Familiarize yourself with:
+
+* [ESP32-S3 Pin Layout Diagram](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Fall2026/blob/main/schematics/ESP32-S3_PinOut.pdf)
+
+* [ESP32-S3 PinOut Explained](https://www.luisllamas.es/en/esp32-s3-hardware-details-pinout/)
+
+* [Arduino Reference](https://docs.arduino.cc/language-reference/)
+
+### [Installing ESP-32 Support in Arduino IDE](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html): read instructions until "Windows - Manual Install" 
+
+### If your ESP32 Board is not showing up as a Serial Comm Port...
+Download & Install the latest [Silicon Labs Virtual COM Port Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) for your operating system.   
+Please reach out to me ASAP if you run into any issues.
+
+_If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it, you can put it in Bootloader Mode:_   
+
+**First, make sure you do not have 3V3 or 5V plugged directly into GND anywhere! This will cause the microcontroller to lock up and become unresponsive.**
+
+_If this does nto resolve the issue, then..._
+
+1. Unplug microUSB cable to power off board.
+2. Hold down BOOT button.
+3. Continue to hold down BOOT button, plug in microUSB cable to UART port.
+4. Press RESET while still holding down BOOT.
+5. Release RESET, then release BOOT. 
+6. The board should now be ready for firmware upload. I recommend flashing a simple sketch such as a serial "hello world" test or LED blink to confirm normal operation.
