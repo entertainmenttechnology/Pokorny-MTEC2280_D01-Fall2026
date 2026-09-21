@@ -4,7 +4,7 @@
 
 2. [John](https://github.com/JVierCUNY/MTEC-2280-Portfolio)
 
-3. 
+3. [Justin](https://github.com/LilHotPocket-JA/-PhysComp_Justin/tree/main/MTEC%202280%20Assignments/JA_SS1_patternLED)
 
 4. 
 
