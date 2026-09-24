@@ -12,7 +12,7 @@
 
 6. [Sym](https://github.com/SymWhy/PhysComp_Sym_Whysel)
 
-7. 
+7. [Patrick](https://github.com/PatrickMannix/PhysComp_Patrick2)
 
 8. 
 
