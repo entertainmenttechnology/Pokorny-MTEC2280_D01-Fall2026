@@ -14,7 +14,7 @@
 
 7. [Patrick](https://github.com/PatrickMannix/PhysComp_Patrick2)
 
-8. 
+8. [Joseph](https://github.com/jnw5113/Mtec2280_Fall2026_JosephW.)
 
 9. 
 
