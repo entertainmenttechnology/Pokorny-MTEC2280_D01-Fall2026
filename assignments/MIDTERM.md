@@ -66,3 +66,4 @@ Reccomendations:
 	
 ### Wednesday 10/14 - MIDTERM DUE
 - Save your completed midterm project as "MIDTERM_YourName" and push to your GitHub repo before start of class.
+- Present the final version of your Midterm project in person to class.
