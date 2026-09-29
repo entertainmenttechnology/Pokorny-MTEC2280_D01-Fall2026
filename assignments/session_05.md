@@ -10,6 +10,6 @@ See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Fa
 
 * [analogReadResolution](https://docs.arduino.cc/language-reference/en/functions/analog-io/analogReadResolution/)
 
-* [touchRead()](https://randomnerdtutorials.com/esp32-touch-pins-arduino-ide/) - NOTE: this is ESP32 specific
+* [touchRead()](https://docs.espressif.com/projects/arduino-esp32/en/latest/api/touch.html)
 
 * [analogWrite()](https://docs.arduino.cc/language-reference/en/functions/analog-io/analogWrite/) - we will cover this topic in more depth next week
