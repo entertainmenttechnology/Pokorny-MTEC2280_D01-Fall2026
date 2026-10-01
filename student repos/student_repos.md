@@ -16,4 +16,4 @@
 
 8. [Joseph](https://github.com/jnw5113/Mtec2280_Fall2026_JosephW.)
 
-9. 
+9. [Mathews](https://github.com/cabralmathews/MTEC2280_Mathews_Cabral)
