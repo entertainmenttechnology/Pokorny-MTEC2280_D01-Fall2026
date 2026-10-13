@@ -22,7 +22,7 @@ Use a single hardware analog sensor to control a software p5.js sketch. You may 
 
 Feel free to use images, sound library, etc. The content is completely up to you, but it needs to be controlled by Serial UART from Microcontroller.             
 
-You may also use touchRead() as your analog sensor, though keep in mind that the range is considerably larger than 8-bit!
+You may also use touchRead() as your analog sensor, though keep in mind that the raw touchRead() range is considerably larger than 8-bit!
 
 REMEMBER to add the p5.serialport library to the index.html file of your p5.js project:
 
