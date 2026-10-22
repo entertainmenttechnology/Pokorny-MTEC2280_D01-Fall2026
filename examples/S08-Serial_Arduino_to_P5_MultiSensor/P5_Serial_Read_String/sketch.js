@@ -19,8 +19,8 @@ NOTES:
 */
 
 let serial; // declare variable for an instance of the serialport library
-let portName = '/dev/tty.usbserial-213320';  // fill in your serial port name here
-let options = { baudRate: 9600}; // change the baud rate to match your Arduino code
+let portName = '/dev/tty.usbserial-213340';  // fill in your serial port name here
+let options = {baudRate: 9600}; // change the baud rate to match your Arduino code
 
 let inData = 0; // variable for storing incoming serial data
 let sensors = [0, 0, 0, 0]; // array to hold sensor values: [button1, button2, pot1, pot2]
@@ -104,7 +104,7 @@ function serialEvent() //gets called when new data arrives
   let inString = serial.readStringUntil('\n'); // read until newline character
   if (inString.length > 0) //if there's data in the string
   {
-    sensors = split(inString, ','); // split the string at commas and store in array
+    sensors = inString.split(','); // split the string at commas and store in array
     
     for (let i = 0; i < sensors.length; i++) 
     {
