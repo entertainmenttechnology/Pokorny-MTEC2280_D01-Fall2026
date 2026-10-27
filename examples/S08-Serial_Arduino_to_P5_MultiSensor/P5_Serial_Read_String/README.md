@@ -1,4 +1,4 @@
-# P5_Serial_Read_String_v2
+# P5_Serial_Read_String
 
 ## Getting Started
 
