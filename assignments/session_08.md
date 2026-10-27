@@ -1,12 +1,6 @@
 
 ## SESSION 08
 
-REMEMBER to add the p5.serialport library to the index.html file of your p5.js projects:
-
-```html
-<script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
-```
-
 ## SHORT SKETCH #4: DUE 11/4
 Use (at least) 4 hardware sensors to control a P5.JS sketch. You may use any combination of buttons, potentiometers, photocell, or touch points as your sensor. The P5 sketch must include:
 - use of sensor data (transmitted via UART) to control multiple elements of your P5 sketch.
