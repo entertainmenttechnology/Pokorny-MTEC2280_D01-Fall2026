@@ -30,7 +30,7 @@ Have your project (both hardware and software aspects) ready to present at the n
 
 * [P5.JS: Reference](https://p5js.org/reference/)
 
-* [P5 SerialPort Library](https://github.com/p5-serial/p5.serialport) (check out METHODS on this page)
+* [P5.Webserial Library](https://github.com/gohai/p5.webserial)
 
 * [Arduino: Serial.print()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/)
 
@@ -40,7 +40,5 @@ Have your project (both hardware and software aspects) ready to present at the n
 
 
 ### Download & Install (if you have not already):
-
-* [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
 * [Visual Studio CODE](https://code.visualstudio.com/download), not "Visual Studio", and install the p5.js extension (instructions [here](https://p5js.org/tutorials/setting-up-your-environment/))
