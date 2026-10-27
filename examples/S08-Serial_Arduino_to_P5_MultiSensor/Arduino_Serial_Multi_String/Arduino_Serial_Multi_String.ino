@@ -35,7 +35,7 @@ void setup()
   pinMode(buttonPin_1, INPUT_PULLUP);
   pinMode(buttonPin_2, INPUT_PULLUP);
   analogReadResolution(10); //set ADC read to 10-bit (0-1023) range
-  Serial.begin(9600);  //start serial comm @ 9600 baud rate
+  Serial.begin(115200);  //start serial comm @ 115200 baud rate
 }
 
 void loop() 
