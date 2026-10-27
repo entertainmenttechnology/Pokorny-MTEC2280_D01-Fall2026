@@ -24,6 +24,12 @@ Feel free to use images, sound library, etc. The content is completely up to you
 Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session. Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
 Have your project (both hardware and software aspects) ready to present at the next class critique.
 
+REMEMBER to add the p5.webserial library to the "head" section of the index.html file in your p5.js project:
+
+```html
+<script src="https://unpkg.com/@gohai/p5.webserial@1/libraries/p5.webserial.js"></script>
+```
+
 ### Familiarize yourself with:
 
 * [P5.JS: Getting Started](https://p5js.org/tutorials/setting-up-your-environment/)    

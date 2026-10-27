@@ -24,10 +24,10 @@ Feel free to use images, sound library, etc. The content is completely up to you
 
 You may also use touchRead() as your analog sensor, though keep in mind that the raw touchRead() range is considerably larger than 8-bit!
 
-REMEMBER to add the p5.serialport library to the index.html file of your p5.js project:
+REMEMBER to add the p5.webserial library to the "head" section of the index.html file in your p5.js project:
 
 ```html
-<script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+<script src="https://unpkg.com/@gohai/p5.webserial@1/libraries/p5.webserial.js"></script>
 ```
 
 ### Familiarize yourself with:
@@ -35,6 +35,8 @@ REMEMBER to add the p5.serialport library to the index.html file of your p5.js p
 * [P5.JS: Getting Started](https://p5js.org/tutorials/setting-up-your-environment/)    
 
 * [P5.JS: Reference](https://p5js.org/reference/)
+
+* [P5.Webserial Library](https://github.com/gohai/p5.webserial)
 
 * [Arduino: UART Explained](https://docs.arduino.cc/learn/communication/uart/)
 
@@ -44,7 +46,6 @@ REMEMBER to add the p5.serialport library to the index.html file of your p5.js p
 
 ### Download & Install (if you have not already):
 
-* [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
 * [Visual Studio CODE](https://code.visualstudio.com/download), not Visual Studio, and install the p5.js extension (instructions [here](https://p5js.org/tutorials/setting-up-your-environment/) - scroll down to "Using VS Code" section)
 
