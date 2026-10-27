@@ -6,7 +6,7 @@
   - IMPLEMENTS REPEATING SOFTWARE TIMER TO STABILIZE SERIAL COMMS
 
   NOTE:
-  - You must DISCONNECT (or exit) p5.serialcontrol Sketch before uploading to MCU.
+  - You must DISCONNECT (or exit) p5 Sketch before uploading to MCU.
   - Otherwise, the UART port used for code upload will be blocked by UART comms to P5.
 */
 
@@ -16,11 +16,11 @@ int adcRead = 0;  //variable to store our Analog-to-Digital Conversion value
 //software timer variables
 int lastTime = 0;
 int currentTime = 0;
-int timerInterval = 2;
+int timerInterval = 5;
 
 void setup() 
 {
-  Serial.begin(9600);     // Start serial communication @ 9600 baud rate
+  Serial.begin(115200);     // Start serial communication @ 115200 baud rate
   analogReadResolution(8);  //adjust adc read range to 0-255, 1-byte, 8-bit
 }
 
