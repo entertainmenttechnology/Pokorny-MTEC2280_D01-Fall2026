@@ -10,7 +10,7 @@ Create a software p5.js sketch that controls at least one hardware actuator via 
 - display window width: max of 1080, min of 400
 - display window height: max of 720, min of 400
 
-Feel free to use images, sound library, etc. The content is completely up to you, but it needs to be controlled by Serial UART from your P5.JS Sketch.             
+Feel free to use images, sound library, etc. The content is completely up to you, but it needs to control an actuator via Serial UART from your P5.JS Sketch.             
 
 Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session.   
 Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
