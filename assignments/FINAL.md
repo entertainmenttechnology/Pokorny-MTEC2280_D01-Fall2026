@@ -56,7 +56,7 @@ _ALL of the items below must be complete for the proposal to receive a green lig
 * Include at least 3 links to precedent research (other projects with technical, conceptual, or aesthetic overlap), with brief descriptions explaining how these precedents relate to and differ from your own project.       
 * Create a calendar of tasks: Outline the specific steps for completing the project, with a proposed week by week timeline. Include any research, tutorials to complete, project iterations, and testing.              
    
-_**Send proposals before class on 4/29 via Discord or Email, as a PDF labeled as YourName_FinalProjectProposal.PDF.**_      
+_**Send proposals before class on 11/18 via Discord or Email, as a PDF labeled as YourName_FinalProjectProposal.PDF.**_      
   
 ## Final Deliverables (**Due Wednesday 12/16**): 
 * In a PDF uploaded to your gitHub repo:   
